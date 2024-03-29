@@ -1,3 +1,7 @@
+// The customer cannot buy more than 5 items.
+// If the customer does not have enough credit, the product cannot be bought.
+
+
 #include <iostream>
 #include <string>
 
